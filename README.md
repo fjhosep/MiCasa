@@ -1,2 +1,3 @@
 # MiCasa
-Mini Proyecto para una Iglesia
+Mini Proyecto para una Iglesia 
+Hecho en Java
